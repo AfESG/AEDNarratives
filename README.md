@@ -10,4 +10,6 @@ After making edits to this repo, to include them in the actual site, you must fi
 
 You can then ensure the changes have come through by running the local development server on that repo.
 
+Once confirmed, add, commit, and push the submodule change on the AEDWebsite2016 repo.
+
 In order for the changes to 'go live', you must then redeploy the AEDWebsite2016 by following the deployment instructions found in [that repo](https://github.com/AfESG/AEDWebsite2016#deploy)
