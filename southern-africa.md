@@ -42,3 +42,8 @@ The current range area for Southern Africa is 1,325,998 km², a slight increase 
 <a href="/narratives/images/southern-africa/figure-1.png" target="_blank">
   ![Figure 1](/narratives/images/southern-africa/figure-1.png "Figure 1")
 </a>
+
+<a href="/narratives/images/southern-africa/figure-1.png" target="_blank">
+  ![Table 1](/narratives/images/southern-africa/table-1.png "Table 1")
+</a>
+
